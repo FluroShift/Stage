@@ -1,2 +1,2 @@
-# StageDocumentatie
-Documentatie Stage Dwayne Debets
+# Stage
+Stage Dwayne Debets
